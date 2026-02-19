@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Phone, ChevronDown } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
-import logoUrl from "@/assets/Nzi-tiling-logo.png";
+import logoUrl from "@/assets/torrisi-logo.png";
 
 const services = [
   { name: "Commercial Tiling", href: "/services/commercial-tiling" },
@@ -58,7 +58,7 @@ export function Header() {
             <Link to="/" className="flex items-center gap-3">
               <img
                 src={logoUrl}
-                alt="NZI Tiling Logo"
+                alt="Torrisi Tiling Logo"
                 className="h-12 w-auto sm:h-14"
                 loading="eager"
               />
@@ -68,14 +68,14 @@ export function Header() {
                     isScrolled ? "text-foreground" : "text-white"
                   }`}
                 >
-                  NZI Tiling
+                  Torrisi Tiling
                 </span>
                 <span
                   className={`block font-bold ${
                     isScrolled ? "text-muted-foreground" : "text-white/80"
                   }`}
                 >
-                  &amp; Waterproofing
+                  &amp; Maintenance
                 </span>
               </div>
             </Link>
