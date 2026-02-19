@@ -14,7 +14,7 @@ const testimonials = [
     name: "David L.",
     suburb: "South Brisbane",
     rating: 5,
-    text: "NZI tiled our entire ground floor and the quality is outstanding. They were meticulous with the preparation and the tiles are perfectly aligned.",
+    text: "Torrisi tiled our entire ground floor and the quality is outstanding. They were meticulous with the preparation and the tiles are perfectly aligned.",
   },
   {
     id: 3,

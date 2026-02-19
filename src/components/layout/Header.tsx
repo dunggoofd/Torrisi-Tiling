@@ -146,13 +146,13 @@ export function Header() {
             {/* CTA Buttons */}
             <div className="hidden items-center gap-3 lg:flex">
               <a
-                href="tel:0424479303"
+                href="tel:0405508730"
                 className={`flex items-center gap-2 text-sm font-medium ${
                   isScrolled ? "text-foreground" : "text-white"
                 }`}
               >
                 <Phone className="h-4 w-4" />
-                0424 479 303
+                0405 508 730
               </a>
               <Link to="/contact" className="btn-primary">
                 Get a Free Quote
@@ -235,11 +235,11 @@ export function Header() {
             </nav>
             <div className="mt-4 flex flex-col gap-3 border-t border-border pt-4">
               <a
-                href="tel:0424479303"
+                href="tel:0405508730"
                 className="btn-secondary justify-center border-primary text-primary"
               >
                 <Phone className="h-4 w-4" />
-                Call 0424 479 303
+                Call 0405 508 730
               </a>
               <Link to="/contact" className="btn-primary justify-center">
                 Get a Free Quote
@@ -253,7 +253,7 @@ export function Header() {
       <div className="fixed bottom-0 left-0 right-0 z-50 border-t border-border bg-background p-3 lg:hidden">
         <div className="flex gap-3">
           <a
-            href="tel:0424479303"
+            href="tel:0405508730"
             className="flex flex-1 items-center justify-center gap-2 rounded-lg border border-border bg-secondary py-3 font-semibold text-foreground"
           >
             <Phone className="h-4 w-4" />

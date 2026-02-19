@@ -38,15 +38,15 @@ export function Footer() {
           <div className="lg:col-span-1">
             <Link to="/" className="mb-6 flex items-center gap-3">
               <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-accent">
-                <span className="text-lg font-bold text-primary">NZI</span>
+                <span className="text-lg font-bold text-primary">TTM</span>
               </div>
               <div>
-                <span className="font-bold text-primary-foreground">NZI Tiling</span>
-                <span className="block text-xs text-primary-foreground/70">& Waterproofing</span>
+                <span className="font-bold text-primary-foreground">Torrisi Tiling</span>
+                <span className="block text-xs text-primary-foreground/70">& Maintenance</span>
               </div>
             </Link>
             <p className="mb-6 text-sm leading-relaxed text-primary-foreground/80">
-              Brisbane's trusted experts in tiling and waterproofing. Delivering quality craftsmanship for commercial and residential projects since day one.
+              Qualified and Licenced Tilers. Residential and Commercial Tiling. 20 years of experience delivering quality craftsmanship.
             </p>
             <div className="flex gap-3">
               <a
@@ -116,20 +116,20 @@ export function Footer() {
             <ul className="space-y-4">
               <li>
                 <a
-                  href="tel:0424479303"
+                  href="tel:0405508730"
                   className="flex items-start gap-3 text-sm text-primary-foreground/80 transition-colors hover:text-accent"
                 >
                   <Phone className="mt-0.5 h-4 w-4 shrink-0" />
-                  <span>0424 479 303</span>
+                  <span>0405 508 730</span>
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:nzi_tiling@outlook.com"
+                  href="mailto:torrisitilinginfo@gmail.com"
                   className="flex items-start gap-3 text-sm text-primary-foreground/80 transition-colors hover:text-accent"
                 >
                   <Mail className="mt-0.5 h-4 w-4 shrink-0" />
-                  <span>nzi_tiling@outlook.com</span>
+                  <span>torrisitilinginfo@gmail.com</span>
                 </a>
               </li>
               <li className="flex items-start gap-3 text-sm text-primary-foreground/80">
@@ -171,7 +171,7 @@ export function Footer() {
       <div className="border-t border-white/10">
         <div className="section-container flex flex-col items-center justify-between gap-4 py-6 text-sm text-primary-foreground/60 md:flex-row">
           <div className="flex flex-wrap items-center justify-center gap-x-4 gap-y-1">
-            <span>© {new Date().getFullYear()} NZI Tiling & Waterproofing</span>
+            <span>© {new Date().getFullYear()} Torrisi Tiling & Maintenance</span>
             <span className="hidden md:inline">•</span>
             <span>ABN: {"{INSERT ABN}"}</span>
             <span className="hidden md:inline">•</span>

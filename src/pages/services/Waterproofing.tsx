@@ -40,7 +40,7 @@ const WaterproofingService = () => {
   return (
     <>
       <SEOHead
-        title="Waterproofing Services Brisbane | AS 3740 Compliant | NZI"
+        title="Waterproofing Services Brisbane | AS 3740 Compliant | Torrisi"
         description="Professional waterproofing services in Brisbane. AS 3740 compliant membranes for bathrooms, balconies, rooftops & more. Licensed applicators. Free quotes."
         canonical="/services/waterproofing"
       />
@@ -80,8 +80,8 @@ const WaterproofingService = () => {
                   <Link to="/contact" className="btn-primary">
                     Get a Free Quote
                   </Link>
-                  <a href="tel:0424479303" className="btn-secondary">
-                    Call 0424 479 303
+                  <a href="tel:0405508730" className="btn-secondary">
+                    Call 0405 508 730
                   </a>
                 </div>
               </motion.div>

@@ -84,8 +84,8 @@ export function QuoteForm({ variant = "default" }: { variant?: QuoteFormVariant 
         <p className="mb-6 text-muted-foreground">
           We've received your quote request and will be in touch within 24 hours. If your enquiry is urgent, please call us directly.
         </p>
-        <a href="tel:0424479303" className="inline-flex items-center gap-2 font-semibold text-accent">
-          Call 0424 479 303
+        <a href="tel:0405508730" className="inline-flex items-center gap-2 font-semibold text-accent">
+          Call 0405 508 730
         </a>
       </motion.div>
     );

@@ -85,7 +85,7 @@ const Projects = () => {
   return (
     <>
       <SEOHead
-        title="Our Projects | Tiling & Waterproofing Portfolio | NZI Brisbane"
+        title="Our Projects | Tiling & Maintenance Portfolio | Torrisi Brisbane"
         description="Browse our portfolio of completed tiling and waterproofing projects across Brisbane. Bathrooms, commercial spaces, pools, balconies and more."
         canonical="/projects"
       />

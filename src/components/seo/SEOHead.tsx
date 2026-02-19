@@ -8,8 +8,8 @@ interface SEOHeadProps {
   image?: string;
 }
 
-const defaultTitle = "NZI Tiling & Waterproofing | Brisbane Tiling Experts";
-const defaultDescription = "Expert tiling and waterproofing services across Brisbane. AS 3740 compliant, licensed, and insured. Commercial & residential projects. Get a free quote today.";
+const defaultTitle = "Torrisi Tiling & Maintenance | Brisbane Tiling Experts";
+const defaultDescription = "Qualified and Licenced Tilers. Residential and Commercial Tiling across Brisbane. 20 years of experience. Get a free quote today.";
 
 export function SEOHead({
   title = defaultTitle,
@@ -24,11 +24,11 @@ export function SEOHead({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
     "@id": siteUrl,
-    name: "NZI Tiling & Waterproofing Services",
+    name: "Torrisi Tiling & Maintenance Services",
     description: defaultDescription,
     url: siteUrl,
-    telephone: "0424479303",
-    email: "nzi_tiling@outlook.com",
+    telephone: "0405508730",
+    email: "torrisitilinginfo@gmail.com",
     address: {
       "@type": "PostalAddress",
       addressLocality: "Brisbane",
@@ -68,7 +68,7 @@ export function SEOHead({
       <meta property="og:description" content={description} />
       <meta property="og:url" content={`${siteUrl}${canonical}`} />
       <meta property="og:image" content={`${siteUrl}${image}`} />
-      <meta property="og:site_name" content="NZI Tiling & Waterproofing" />
+      <meta property="og:site_name" content="Torrisi Tiling & Maintenance" />
       <meta property="og:locale" content="en_AU" />
 
       {/* Twitter */}

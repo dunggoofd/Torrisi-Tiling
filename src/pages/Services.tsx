@@ -60,7 +60,7 @@ const Services = () => {
   return (
     <>
       <SEOHead
-        title="Our Services | Tiling & Waterproofing Brisbane | NZI"
+        title="Our Services | Tiling & Maintenance Brisbane | Torrisi"
         description="Professional tiling and waterproofing services in Brisbane. Commercial, residential, pools, bathrooms, balconies, and more. AS 3740 compliant. Free quotes."
         canonical="/services"
       />
@@ -153,10 +153,10 @@ const Services = () => {
                   Get a Free Quote
                 </Link>
                 <a
-                  href="tel:0424479303"
+                  href="tel:0405508730"
                   className="inline-flex items-center justify-center gap-2 rounded-lg border border-border bg-background px-6 py-3 font-semibold text-foreground transition-colors hover:border-accent"
                 >
-                  Call 0424 479 303
+                  Call 0405 508 730
                 </a>
               </div>
             </motion.div>

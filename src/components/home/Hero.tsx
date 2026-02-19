@@ -52,7 +52,7 @@ export function Hero() {
 
             {/* Subheadline */}
             <p className="mb-8 text-lg text-white/80 sm:text-xl">
-              Reliable, compliant, and built to last. Quality craftsmanship for commercial and residential projects across Brisbane.
+              Qualified and Licenced Tilers. Residential and Commercial Tiling. 20 years of experience delivering quality craftsmanship across Brisbane.
             </p>
 
             {/* CTAs */}
@@ -60,9 +60,9 @@ export function Hero() {
               <Link to="/contact" className="btn-primary text-center">
                 Get a Free Quote
               </Link>
-              <a href="tel:0424479303" className="btn-secondary text-center">
+              <a href="tel:0405508730" className="btn-secondary text-center">
                 <Phone className="h-5 w-5" />
-                Call 0424 479 303
+                Call 0405 508 730
               </a>
             </div>
 

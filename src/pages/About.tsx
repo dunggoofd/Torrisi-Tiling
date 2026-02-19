@@ -31,8 +31,8 @@ const About = () => {
   return (
     <>
       <SEOHead
-        title="About Us | NZI Tiling & Waterproofing Brisbane"
-        description="Learn about NZI Tiling & Waterproofing - Brisbane's trusted experts in tiling and waterproofing with over 10 years of experience. Licensed, insured, and committed to quality."
+        title="About Us | Torrisi Tiling & Maintenance Brisbane"
+        description="Learn about Torrisi Tiling & Maintenance - Brisbane's trusted qualified and licenced tilers with 20 years of experience. Residential and commercial tiling."
         canonical="/about"
       />
       <Layout>
@@ -51,7 +51,7 @@ const About = () => {
                 Brisbane's Trusted Tiling & Waterproofing Experts
               </h1>
               <p className="text-lg text-white/80">
-                For over a decade, NZI Tiling & Waterproofing has been delivering exceptional craftsmanship to homes and businesses across Brisbane.
+                With 20 years of experience, Torrisi Tiling & Maintenance has been delivering exceptional craftsmanship to homes and businesses across Brisbane.
               </p>
             </motion.div>
           </div>
@@ -71,7 +71,7 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 text-muted-foreground">
                   <p>
-                    NZI Tiling & Waterproofing was founded with a simple mission: to deliver the highest quality tiling and waterproofing services in Brisbane. What started as a one-man operation has grown into a trusted team of skilled professionals.
+                    Torrisi Tiling & Maintenance was founded with a simple mission: to deliver the highest quality tiling and maintenance services in Brisbane. With 20 years of experience, what started as a one-man operation has grown into a trusted team of qualified and licenced professionals.
                   </p>
                   <p>
                     Based in Brisbane and serving Greater Brisbane, we've completed hundreds of projects ranging from luxury bathroom renovations to large-scale commercial fit-outs. Our reputation is built on precision workmanship, reliable service, and genuine care for our clients.

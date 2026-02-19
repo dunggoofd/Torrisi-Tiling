@@ -25,7 +25,7 @@ export function ContactSection() {
             <div className="space-y-6">
               {/* Phone */}
               <a
-                href="tel:0424479303"
+                href="tel:0405508730"
                 className="flex items-start gap-4 rounded-xl bg-card p-4 transition-shadow hover:shadow-md"
               >
                 <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-accent/10">
@@ -36,14 +36,14 @@ export function ContactSection() {
                     Phone
                   </span>
                   <span className="text-lg font-medium text-accent">
-                    0424 479 303
+                    0405 508 730
                   </span>
                 </div>
               </a>
 
               {/* Email */}
               <a
-                href="mailto:nzi_tiling@outlook.com"
+                href="mailto:torrisitilinginfo@gmail.com"
                 className="flex items-start gap-4 rounded-xl bg-card p-4 transition-shadow hover:shadow-md"
               >
                 <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-accent/10">
@@ -54,7 +54,7 @@ export function ContactSection() {
                     Email
                   </span>
                   <span className="text-muted-foreground">
-                    nzi_tiling@outlook.com
+                    torrisitilinginfo@gmail.com
                   </span>
                 </div>
               </a>
@@ -108,7 +108,7 @@ export function ContactSection() {
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="NZI Tiling Service Area - Brisbane"
+              title="Torrisi Tiling Service Area - Brisbane"
             />
           </motion.div>
         </div>

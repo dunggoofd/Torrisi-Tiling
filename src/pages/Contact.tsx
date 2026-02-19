@@ -8,8 +8,8 @@ const Contact = () => {
   return (
     <>
       <SEOHead
-        title="Contact Us | Get a Free Quote | NZI Tiling Brisbane"
-        description="Contact NZI Tiling & Waterproofing for a free quote. Call 0424 479 303 or fill out our form. Serving Brisbane and surrounding areas."
+        title="Contact Us | Get a Free Quote | Torrisi Tiling Brisbane"
+        description="Contact Torrisi Tiling & Maintenance for a free quote. Call 0405 508 730 or fill out our form. Serving Brisbane and surrounding areas."
         canonical="/contact"
       />
       <Layout>

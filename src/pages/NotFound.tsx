@@ -14,7 +14,7 @@ const NotFound = () => {
   return (
     <>
       <SEOHead
-        title="Page Not Found | NZI Tiling & Waterproofing"
+        title="Page Not Found | Torrisi Tiling & Maintenance"
         description="The page you're looking for doesn't exist. Return to our homepage to explore our tiling and waterproofing services."
       />
       <Layout>
